@@ -15,6 +15,12 @@ Any individual use or damages that result from this software are not the respons
 
 Run this software in virtual machines and under no circumstances send it to other people or test it on your physical device!
 
+## DESCRIPTION
+
+This malware has 9 payloads + Interactive Mandelbrot Fractal with 5 thousand Iterations at the End (The 5 thousand Mandelbrot may crash, so I made a version with one thousand).
+NOTE: On a Virtual Machine, the computer remains usable, but on a Real Device, the Mandelbrot uses 100% of the CPU.
+
+
 (Português)
 ## TheNerine v1.0 - Desenvolvido Por CYBERWARE
 
@@ -31,3 +37,8 @@ Qualquer uso individual ou prejuízos que derivem deste software não são respo
 ## RECOMENDAÇÃO
 
 Execute este software em máquinas virtuais e, em hipótese alguma, envie para outras pessoas ou teste no seu dispositivo físico!
+
+## DESCRIÇÃO
+
+Este malware possui 9 payloads + Mandelbrot Fractal Interativo com 5 mil Interações no Final Dele (O Mandelbrot de 5 mil pode travar então eu fiz uma versão de mil)
+OBS: em máquina Virtual o Computador fica normal de Uso, mais em um Dispositivo Real o Mandelbrot Usa 100% da CPU.
