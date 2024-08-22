@@ -15,9 +15,9 @@ namespace MandelbrotFractal
 
             synthesizer.SelectVoiceByHints(VoiceGender.Male, VoiceAge.Adult, 0, new System.Globalization.CultureInfo("pt-BR"));
 
-            synthesizer.Rate = 3; // 10 maximo -10 minimo
+            synthesizer.Rate = 3;
 
-            synthesizer.Volume = 100; // Exemplo: valor 100 para um volume um pouco mais alto ( 100 é o maximo 0 minimo )
+            synthesizer.Volume = 100; 
 
             PromptBuilder buld = new PromptBuilder();
 
