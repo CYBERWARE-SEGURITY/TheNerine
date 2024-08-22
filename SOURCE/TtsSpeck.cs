@@ -11,10 +11,8 @@ namespace MandelbrotFractal
     {
         public static void SpeckCyberware()
         {
-            // Inicializa o sintetizador de fala
             SpeechSynthesizer synthesizer = new SpeechSynthesizer();
 
-            // Define a voz para o português brasileiro (se disponível)
             synthesizer.SelectVoiceByHints(VoiceGender.Male, VoiceAge.Adult, 0, new System.Globalization.CultureInfo("pt-BR"));
 
             synthesizer.Rate = 3; // 10 maximo -10 minimo
